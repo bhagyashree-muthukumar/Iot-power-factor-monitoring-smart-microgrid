@@ -83,3 +83,9 @@ The proposed system consists of three buses:
 ## 9. Project Domain
 
 Electrical Engineering | Power Systems | Power Factor Correction | Embedded Systems | IoT | Smart Grid
+
+## 10. Authors
+
+- [Bhagyashree Muthukumar](https://github.com/bhagyashree-muthukumar)
+- [Ponabirami A](https://github.com/Ponabirami1718)
+- Deepana S
