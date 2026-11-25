@@ -34,6 +34,8 @@ The proposed system consists of three buses:
 - Relay-controlled capacitor bank switching.
 - Reactive power compensation for inductive loads.
 
+![Three-Bus Smart Microgrid Architecture](<IoT Smart Microgrid Power Monitoring Infographic.png>)
+
 ## 4. Hardware Components
 
 | Component | Application |
